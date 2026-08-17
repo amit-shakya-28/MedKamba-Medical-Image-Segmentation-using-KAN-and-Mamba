@@ -1,4 +1,5 @@
-# MedKamba
+# MedKamba[MIDL'26]
+
 
 **MedKamba: Medical Image Segmentation using KAN and Mamba**
 
